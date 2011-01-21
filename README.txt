@@ -3,7 +3,11 @@ Code for America Drupal 7 Sandbox
 This is a demonstration site for playing with Drupal 7. Specifically, playing with and demonstrating cool features in Drupal that might be helpful for cities.
 
 1/21/2011 - This is a very basic Drupal site with the full codebase, some contributed modules, and some custom modules.
-The idea is that this exact file structure will be pushed to a server... 
+The idea is that this exact file structure will be pushed to a server. 
+In a typical production environment, you would can actually use scripts to generate your Drupal site.
+Also, you typically would only store your sites or custom modules in their own repositories.
+
+
 Everything we need minus:
 * the settings.php file (sites/default/settings.php) (which is where passwords are stored.)
 
