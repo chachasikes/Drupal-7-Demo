@@ -31,3 +31,5 @@ You should defer to the drupal.org installation instructions. These instructions
 
 When you install all these pieces, you will have a working installation of Drupal that has some pre-loaded content & special configurations.
 
+2. Don't install our database, but enable certain 'features.' Features are, for example, configuration settings for a blog, image gallery, or map settings.
+We'll add which features are cool once we have some.
