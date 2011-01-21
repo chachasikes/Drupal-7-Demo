@@ -1,6 +1,6 @@
 Changes to Drupal 7 demo
 
-1/21/2011
+1/21/2011 --- Created demonstration area
 Contains Drupal 7 core (2011-Jan-05)
 
 Contributed modules:
@@ -16,7 +16,11 @@ pathauto
 token
 views
 
+Libraries:
+XXX TBD.
+
 Features:
+XXX TBD.
 
 Custom modules:
 XXX TBD.
