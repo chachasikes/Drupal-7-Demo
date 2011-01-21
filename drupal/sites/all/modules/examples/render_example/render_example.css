@@ -1,0 +1,22 @@
+/* $Id: render_example.css,v 1.1 2010/09/26 12:04:28 rfay Exp $ */
+
+.render-array { 
+    border: 2px solid black; 
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.render-header {
+  font-size: large;
+  font-style: italic;
+}
+
+.unrendered-label {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.rendered {
+  background-color: lightblue;
+}

@@ -1,0 +1,14 @@
+<?php
+// $Id: block_example.install,v 1.2 2010/12/12 07:04:41 rfay Exp $
+
+/**
+ * @file
+ * Install, update and uninstall functions for the block_example module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function block_example_uninstall() {
+  variable_del('block_example_string');
+}

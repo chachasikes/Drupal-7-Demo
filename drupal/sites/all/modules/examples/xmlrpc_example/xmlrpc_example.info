@@ -1,0 +1,14 @@
+; $Id: xmlrpc_example.info,v 1.8 2010/12/26 18:11:09 rfay Exp $
+
+name = XMLRPC example
+description = This is an example of how to implement client and server communications using XML-RPC.
+package = Example modules
+core = 7.x
+files[] = xmlrpc_example.test
+
+; Information added by drupal.org packaging script on 2011-01-15
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "examples"
+datestamp = "1295093468"
+
