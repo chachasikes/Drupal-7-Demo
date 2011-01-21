@@ -1,0 +1,6 @@
+/* $Id: jsweights.css,v 1.2 2010/08/11 23:16:27 rfay Exp $ */
+
+div#js-weights div {
+  font-size: 20px;
+  font-weight: bold;
+}
