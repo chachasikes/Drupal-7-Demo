@@ -25,7 +25,8 @@ You should defer to the drupal.org installation instructions. These instructions
 * Clone this repository into a folder in your htdocs folder on your webserver.
 
 1. Install Drupal 7 through the interface to generate a new settings.php file
-   * Install the current working database:  setup/databases/cfa-drupal7-demo.sql
+   * Install the current working database:  setup/databases/cfa_drupal7_demo.sql
+     Tip: generated using mysqldump -u mysql_user_name -p database_name > databases/cfa_drupal7_demo.sql
    * Overwrite your database with the database in the github repository
    * the default login for user/1 is user: admin  password: admin
 
